@@ -1,5 +1,5 @@
 #define RED_PIN 8
-#define BLUE_PIN 7
+#define BLUE_PIN 9
 
 int count;
 int redPin;
